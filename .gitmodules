@@ -1,0 +1,15 @@
+[submodule "pack/conque-gdb/start/Conque-GDB"]
+	path = pack/conque-gdb/start/Conque-GDB
+	url = git@github.com:vim-scripts/Conque-GDB.git
+[submodule "pack/vim-bitbake/start/vim-bitbake"]
+	path = pack/vim-bitbake/start/vim-bitbake
+	url = http://rsalveti.net/git/projects/vim
+[submodule "pack/vim-markdown-preview/start/vim-markdown-preview"]
+	path = pack/vim-markdown-preview/start/vim-markdown-preview
+	url = git@github.com:JamshedVesuna/vim-markdown-preview.git
+[submodule "pack/vim-autotag/start/vim-autotag"]
+	path = pack/vim-autotag/start/vim-autotag
+	url = git@github.com:craigemery/vim-autotag.git
+[submodule "pack/vim-cmake-syntax/start/vim-cmake-syntax"]
+	path = pack/vim-cmake-syntax/start/vim-cmake-syntax
+	url = git://github.com/pboettch/vim-cmake-syntax.git
